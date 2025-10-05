@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+*.pyc
+__pycache__/
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
